@@ -16,4 +16,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="all_table">Tất cả các bàn</string>
+    <string name="available_table">Bàn Trống</string>
+    <string name="unavailable_table">Bàn đã đặt</string>
+    <string name="title_activity_test">Test</string>
 </resources>
